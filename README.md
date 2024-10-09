@@ -40,6 +40,7 @@
   <!--lint ignore list-item-indent awesome-list-item-->
   -  **NOTE:** Jellyfin 10.9 now natively supports trickplay.
 - [Themerr-jellyfin](https://github.com/LizardByte/Themerr-jellyfin) - Adds theme songs to movies and tv shows using [ThemerrDB](https://app.lizardbyte.dev/ThemerrDB/).
+- [jellyfin-plugin-spotify-import](https://github.com/Viperinius/jellyfin-plugin-spotify-import) - This plugin enables you to import playlists from Spotify to your Jellyfin server automatically.
 
 
 #### 🏷️ Metadata Providers
@@ -89,6 +90,7 @@
 - [Jellyfin Update Poster](https://github.com/Iceshadow1404/JellyfinUpdatePoster) - Handles ZIP files containing multiple cover images from [ThePosterDB](https://theposterdb.com/) and [MediUX](https://mediux.pro). Set Downloader for [MediUX](https://mediux.pro).
 - [Jellyfin Notification System](https://github.com/Fahmula/jellyfin-telegram-notifier) - Sends Telegram notifications with media images whenever a new movie, series, season, or episode is added to Jellyfin.
 - [speedrr](https://github.com/itschasa/speedrr) - Change your torrent client's upload speed dynamically, on certain events such as when a Plex/Jellyfin stream starts.
+- [jellyfin-poster-hrd-logo](https://github.com/Druidblack/jellyfin-poster-hrd-logo/tree/main) - The program adds the HDR logo to the upper right corner of the covers downloaded from tmdb. Covers are downloaded only for HDR movies.
 
 #### 📜 Snippets
 
